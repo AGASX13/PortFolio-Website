@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 🔗 Live Website
 
-👉 [View Portfolio]([https://your-website-link.com](https://saurabh-agastya-portfolio.netlify.app/))
+👉 [View Portfolio](https://saurabh-agastya-portfolio.netlify.app/)
 
 
 ## 🛠️ Built With
